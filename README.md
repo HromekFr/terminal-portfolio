@@ -1,19 +1,10 @@
 ```markdown
 # Terminal-Style Portfolio Website
 
-![Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 ## Overview
 
-This project is a unique, interactive terminal-style portfolio website. It simulates a command-line interface in the browser, allowing visitors to explore your portfolio using familiar terminal commands. The website features customizable themes and dynamic content loading, providing an engaging and memorable experience for potential employers or clients.
-
-## Features
-
-- **Command-Line Interface**: Navigate the portfolio using text commands.
-- **Dynamic Content Loading**: Asynchronously load content for different sections.
-- **Customizable Themes**: Switch between multiple color schemes on-the-fly.
-- **Responsive Design**: Works well on both desktop and mobile devices.
-- **Easy to Extend**: Simple structure makes it easy to add new commands and features.
+This project represents a simulation of a terminal where you can list some classic portfolio facts, like about me or projects. You can also change the theme of the terminal. This was built to test the capabilities of AI coding tools and get a better grasp of them. I was using Claude Sonnet 3.5 and GitHub Copilot.
 
 ## Available Commands
 
