@@ -1,0 +1,17 @@
+Available commands:
+-------------------
+about           : Display information about me
+projects        : Show list of my projects
+clear           : Clear the terminal
+help            : Show this help message
+theme <name>          : Change the terminal theme
+
+Theme options:
+- default       : Set the terminal back to default colors
+- catppuccin    : A soothing pastel theme
+- nord          : A cool, bluish color scheme
+- darkmodern    : A modern dark theme inspired by popular code editors
+- dracula       : A dark theme with vibrant colors
+
+Example usage:
+theme catppuccin

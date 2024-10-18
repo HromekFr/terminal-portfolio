@@ -1,0 +1,5 @@
+My Projects
+-----------
+Currently, I do not have any projects that I am ready to showcase, as my focus shifted to professional work after college. Previously, I developed an MVP of a Kickstarter-like application utilizing Ethereum for payments for my Bachelor's thesis or a C# desktop application simulating the Playfair cipher. In the past year and a half at work, my most significant projects included rewriting an entire end-to-end automation project for macOS in C# and configuring and developing new CI/CD pipelines in Azure DevOps.
+
+I hope there will be some projects ready in the future on my GitHub that I would be happy to showcase.

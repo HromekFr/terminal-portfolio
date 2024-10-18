@@ -1,0 +1,23 @@
+About Me
+--------
+
+Hi, I'm Frantisek Hromek!
+
+I'm a QA Engineer and Software Developer with a passion for DevOps and AI. I thrive on learning new things and working with cutting-edge technologies. My curiosity drives me to constantly expand my skill set and stay at the forefront of the ever-evolving tech landscape.
+
+In my professional life, I enjoy the challenge of ensuring software quality while also contributing to development projects. The intersection of QA, development, and DevOps practices fascinates me, and I'm always looking for ways to improve processes and implement innovative solutions.
+
+When I'm not immersed in the world of technology, you can find me pursuing my outdoor passions.
+
+I believe in continuous self-improvement, both personally and professionally. Every day, I strive to be a better version of myself, whether that's by mastering a new programming language, optimizing a testing framework, or conquering a challenging climbing route.
+
+Feel free to connect with me if you share similar interests or if you'd like to discuss anything related to QA, software development, DevOps, or AI. I'm always open to new connections and exciting opportunities!
+
+You can find me online at:
+
+- <a href="https://github.com/HromekFr">GitHub</a>
+- <a href="https://x.com/HromekFrantisek">Twitter</a>
+
+<span style="color: var(--nord7); text-shadow: 2px 2px 5px var(--nord8); padding: 5px; border-radius: 5px;">
+btw If this text feel like AI slop, it because it is but atleast based on real info about me
+</span>
