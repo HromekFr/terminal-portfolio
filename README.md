@@ -1,7 +1,7 @@
 ```markdown
 # Terminal-Style Portfolio Website
 
-![Terminal Portfolio Screenshot](https://raw.githubusercontent.com/HromekFr/terminal-portfolio/refs/heads/main/screenshot.png)
+![Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 ## Overview
 
