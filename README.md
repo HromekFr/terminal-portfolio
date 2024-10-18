@@ -4,10 +4,8 @@
 
 ## Overview
 
-This project represents a simulation of a terminal where you can list some
-classic portfolio facts, like about me or projects. You can also change
-the theme of the terminal. This was built to test the capabilities of
-AI coding tools and get a better grasp of them. I was using Claude Sonnet 3.5 and GitHub Copilot.
+This project represents a simulation of a terminal where you can list some classic portfolio facts, like about me or projects.
+This was built to test the capabilities of AI coding tools and get a better grasp of them. I was using Claude Sonnet 3.5 and GitHub Copilot.
 
 ## Available Commands
 
