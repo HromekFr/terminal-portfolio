@@ -3,6 +3,10 @@ const terminal = document.getElementById("terminal");
 const output = document.getElementById("output");
 const userInput = document.getElementById("user-input");
 
+// Command History
+let commandHistory = [];
+let historyIndex = -1;
+
 // Theme Configurations
 const themes = {
   default: {
@@ -33,7 +37,7 @@ const themes = {
     mantle: "#181825",
     text: "#cdd6f4",
     sky: "#89dceb",
-        green: "#a6e3a1",
+    green: "#a6e3a1",
     peach: "#fab387",
     red: "#f38ba8",
     yellow: "#f9e2af",
@@ -147,7 +151,25 @@ userInput.addEventListener("keyup", async (event) => {
     );
     const result = await processCommand(cmd);
     appendToTerminal(result);
+
+    // Add command to history
+    commandHistory.push(cmd);
+    historyIndex = commandHistory.length;
+
     userInput.value = "";
+  } else if (event.key === "ArrowUp") {
+    if (historyIndex > 0) {
+      historyIndex--;
+      userInput.value = commandHistory[historyIndex];
+    }
+  } else if (event.key === "ArrowDown") {
+    if (historyIndex < commandHistory.length - 1) {
+      historyIndex++;
+      userInput.value = commandHistory[historyIndex];
+    } else {
+      historyIndex = commandHistory.length;
+      userInput.value = "";
+    }
   }
 });
 
